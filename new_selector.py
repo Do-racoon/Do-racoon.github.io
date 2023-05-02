@@ -12,3 +12,4 @@ def lotto(n):
 
 lotto_list = lotto(int(input("횟수를 입력하세요")))
 print(lotto_list)
+print("대박나세요")
